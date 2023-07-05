@@ -1,0 +1,12 @@
+DATABASE_ENGINE = "django.db.backends.postgresql_psycopg2"
+DATABASE_NAME = "jk"
+DATABASE_USER = "a"
+DATABASE_PASSWORD = "asd"
+DATABASE_HOST = "localhost"
+DATABASE_PORT = "5432"
+RESET_PASSWORD_RESET_BASE_URL = http://localhost:3000/api/user/reset/
+EMAIL_HOST_USER = paperless.exam@gmail.com
+DEFAULT_FROM_EMAIL = paperless.exam@gmail.com
+EMAIL_HOST_PASSWORD = urkeqqpvuczhhwvx
+EMAIL_HOST = smtp.gmail.com
+SECRET_KEY=<django-insecure-_zk=9yl=ul!po@_z-wq&pogyu52+f7f37v3j$y>
